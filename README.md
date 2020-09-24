@@ -32,11 +32,8 @@ I'm [Tayyab Khalid](https://workcorp.herokuapp.com/), a Fullstack Developer, Web
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning React Native and Swift; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: <a href="mailto:tayyabkhalid369@gmail.com"><img align="center" alt="Tayyab's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> Gmail
-</a>
+- 📫 How to reach me: <a href="mailto:tayyabkhalid369@gmail.com"><img align="center" alt="Tayyab's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> Gmail </a>
 - 📝[Resume](https://workcorp.herokuapp.com/)
-
-
 
 **Languages and Tools:**  
 
@@ -54,7 +51,7 @@ I'm [Tayyab Khalid](https://workcorp.herokuapp.com/), a Fullstack Developer, Web
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-MERN Stack          7 hrs 34 mins   █████████████████████▓░░░   86.48 % 
+MERN Stack   7 hrs 34 mins   █████████████████████▓░░░   86.48 % 
 Markdown     45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 JavaScript   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
