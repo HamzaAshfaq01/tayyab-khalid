@@ -23,7 +23,7 @@
 
 <br />
 
-I'm [Tayyab Khalid](https://workcorp.herokuapp.com/), a Fullstack Developer & Web Enthusist. A proud Computer Nerd and Dev Freak with 'ES Comma' in my head.
+I'm [Tayyab Khalid](https://workcorp.herokuapp.com/), a Fullstack Developer, Web Enthusist, a proud Computer Nerd & Dev Freak with 'ES Comma' in my head. Addicted to dev-community With great vision to chage the world with open-source. Check-out my repos, handcrafted myself.
 
   <img align="right" alt="GIF" src="https://github.com/tayyab-khalid/tayyab-khalid/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -32,8 +32,9 @@ I'm [Tayyab Khalid](https://workcorp.herokuapp.com/), a Fullstack Developer & We
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning React Native and Swift; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+- 📫 How to reach me: <a href="mailto:tayyabkhalid369@gmail.com"><img align="center" alt="Tayyab's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> Gmail
+</a>
+- 📝[Resume](https://workcorp.herokuapp.com/)
 
 **Languages and Tools:**  
 
