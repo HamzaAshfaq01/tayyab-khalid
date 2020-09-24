@@ -33,7 +33,7 @@ I'm [Tayyab Khalid](https://workcorp.herokuapp.com/), a Fullstack Developer, Web
 - 🌱 I’m currently learning React Native and Swift; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <a href="mailto:tayyabkhalid369@gmail.com"><img align="center" alt="Tayyab's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> Gmail </a>
-- 📝[Resume](https://workcorp.herokuapp.com/)
+- 📝 [Resume](https://workcorp.herokuapp.com/)
 
 **Languages and Tools:**  
 
