@@ -23,7 +23,7 @@
 
 <br />
 
-I'm [Tayyab Khalid](https://workcorp.herokuapp.com/), a Fullstack Developer, Web Enthusist, a proud Computer Nerd & Dev Freak with 'ES Comma' in my head. Addicted to dev-community With great vision to chage the world with open-source. Check-out my repos, handcrafted myself.
+I'm [Tayyab Khalid](https://workcorp.herokuapp.com/), a Fullstack Developer, Web Enthusist, a proud Computer Nerd & Dev Freak with 'ES Comma' in my head. Addicted to dev-community with great vision to change the world with open-source. Check-out my repos, handcrafted myself.
 
   <img align="right" alt="GIF" src="https://github.com/tayyab-khalid/tayyab-khalid/blob/master/code.gif?raw=true" width="500" height="320" />
   
